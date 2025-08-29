@@ -5,8 +5,11 @@
 I'm passionate about transforming raw data into meaningful insights and streamlining operations with precision. With expertise in Data Analytics and Administrative Support, I help businesses make informed decisoins and operate more efficiently. 
 
 -📊 Skilled in Excel, SQL, Power BI and Python for data cleaning, exploration and visualization.
+
 -📁 Experienced in Data Entry, Workflow Management and Administrative Support.
+
 -✈ Currently building projects to sharpen my analytic and reporting skills.
+
 -🌱 Always learning new tools to stay ahead in data and business operations.
 
 ### 🛠 Tools & Technologies
