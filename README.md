@@ -1,16 +1,19 @@
-## Hi there 👋
+## Hi there 👋 I'm Chisom Agu
+** Data Analyst & Admin Support Specialist | Driving Insights and Efficiency
 
-<!--
-**Chisom-Agu/Chisom-Agu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👩‍💻 About Me
+I'm passionate about transforming raw data into meaningful insights and streamlining operations with precision. With expertise in Data Analytics and Administrative Support, I help businesses make informed decisoins and operate more efficiently. 
+-📊 Skilled in Excel, SQL, Power BI and Python for data cleaning, exploration and visualization.
+-📁 Experienced in Data Entry, Workflow Management and Administrative Support.
+-✈ Currently building projects to sharpen my analytic and reporting skills.
+-🌱 Always learning new tools to stay ahead in data and business operations.
 
-Here are some ideas to get you started:
+### 🛠 Tools & Technologies
+### 📊 Data Analytics 
+Excel| SQL | Python | Power BI
+### 📁 Admin Support 
+Microsoft Office | Google Workspace
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Let's Connect 
+- 📥 LinkedIn: http://linkedin.com/in/chisomolivia-agu
+- 📧 Email: aguolivia758@gmail.com
